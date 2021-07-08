@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d78351de-fa94-4f89-b0a7-d1f3d5816e16" name="shared bootcamp server" url="https://ddc-web-student.cnm.edu/~rmontague/colorpicker/">
+        <fileTransfer rootFolder="/home/rmontague/public_html/colorpicker" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="58d626f7-06c1-4298-98b7-f26ef42e9d06" sshConfig="rmontague@ddc-web-student.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
